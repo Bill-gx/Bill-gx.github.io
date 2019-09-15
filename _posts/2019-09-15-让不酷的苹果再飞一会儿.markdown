@@ -4,7 +4,7 @@ title: '让不酷的苹果再飞一会儿'
 date: 2019-09-15
 author: Bill
 color: rgb(255,210,32)
-cover: 'https://unsplash.com/photos/e31ANd1PXUw'
+cover: 'http://p1.qhimgs4.com/t018c25833be9b82b6c.jpg'
 tags: 数码分享
 ---
 
@@ -14,7 +14,7 @@ tags: 数码分享
 
 今年没看苹果发布会直播，这几年苹果的发布会确实也越来越不让人兴奋了，如果说去年我还会为Apple Watch Series 4 wow一声的话，今年可能连wow的感觉都没有。也不对，比如这个：
 
-<video src="https://v.qq.com/x/cover/gshiq8iu4p194mg/d0925xo0upj.html" width="800" height="400"
+<video src="https://www.iqiyi.com/v_19ru94s8xg.html" width="720" height="400"
 controls="controls"></video> 
 
 片头展示苹果产品线的动画我还是respect，能把广告做这么好看的只有苹果！
