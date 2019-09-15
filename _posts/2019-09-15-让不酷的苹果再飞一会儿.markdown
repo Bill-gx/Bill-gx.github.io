@@ -14,8 +14,7 @@ tags: 数码分享
 
 今年没看苹果发布会直播，这几年苹果的发布会确实也越来越不让人兴奋了，如果说去年我还会为Apple Watch Series 4 wow一声的话，今年可能连wow的感觉都没有。也不对，比如这个：
 
-<video src="https://www.iqiyi.com/v_19ru94s8xg.html" width="720" height="400"
-controls="controls"></video> 
+详见：[Wonderful tools](https://www.iqiyi.com/v_19ru890ez4.html "悬停显示")
 
 片头展示苹果产品线的动画我还是respect，能把广告做这么好看的只有苹果！
 
@@ -38,7 +37,7 @@ controls="controls"></video>
 
 ## 但为什么苹果就这么做了？
 
-![一代神机6s](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=267ccd4a99ef76c6c4dff379fc7f969f/faedab64034f78f03497859870310a55b3191c38.jpg "6s图片")
+![一代神机6s](https://img3.2345.com/duoteimg/zixunImg/local/2015/12/03/14491421932232.png "6s图片")
 
 恐怕是出于战略布局，由于烂泥扶不上墙的老朋友英特尔今年没法提供5G支持，彼时正与高通交恶的苹果，没有办法在这一代提供5G支持，于是iPhone 11系列就承担了过渡5G的的历史使命，很多创新被拿到了明年的iPhone 11s上，如何刺激这代销量？
 
