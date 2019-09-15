@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
-url: 'https://abc.github.io' # your host
+title: '某个角落看互联网'
+description: '自娱自乐，自得其乐'
+keywords: '篮球，数码，互联网'
+url: 'https://Bill-gx.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -30,13 +30,13 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/Bill-gx'
 #   Codepen: ''
-  weibo: ''
+  weibo: 'https://m.weibo.cn/profile/6090589630'
 #   instagram: ''
   Twitter: ''
 #   Dribbble: ''
   Facebook: ''
   Google: ''
-  zhihu: ''
+  zhihu: 'https://www.zhihu.com/people/gong-xin-40/activities'
 #   juejin: ''
 #   twitch: ''
 
