@@ -1,28 +1,65 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-17 14:05:21 +0800
-tags: jekyll update
-color: rgb(255,90,90)
-cover: '../assets/test.png'
-subtitle: 'Welcome to Jekyll!'
+title: '让不酷的苹果再飞一会儿'
+date: 2019-09-15
+author: Bill
+color: rgb(255,210,32)
+cover: 'https://unsplash.com/photos/e31ANd1PXUw'
+tags: 数码分享
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<center>一年一度的科技春晚就此落幕，除了乏善可陈的新品，我们还能聊些什么？不酷的苹果还能酷起来吗？</center>
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+今年没看苹果发布会直播，这几年苹果的发布会确实也越来越不让人兴奋了，如果说去年我还会为Apple Watch Series 4 wow一声的话，今年可能连wow的感觉都没有。也不对，比如这个：
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<video src="https://v.qq.com/x/cover/gshiq8iu4p194mg/d0925xo0upj.html" width="320" height="180"
+controls="controls"></video> 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+片头展示苹果产品线的动画我还是respect，能把广告做这么好看的只有苹果！
+
+
+## 发布会的枯燥根本原因是什么？
+
+不再神奇的苹果，是因为苹果创新性不够了吗？
+
+是，也不是。
+
+之前苹果每次s系列都是最值得购买的，从4到4s，5到5s，每次s系列都是外观不变下该形态的最完善最优秀版本，6代比较特殊，我觉得可能到6ssss-即8，才接近这个系列的最终形态（ps：6s史上性能最坚挺的手机，目前仍可流畅使用，不考虑续航的话）。我们可以看到从产品出生到成熟，经历的时间越来越长，这一方面有着行业整体遇到瓶颈的原因，摩尔效应接近失效，另一方面，我觉得苹果也在有意的把控节奏。
+
+可能有些朋友会觉得我在危言耸听，如果能推出震撼人心的产品，为什么要故意拖慢创新的步伐呢？
+
+我得承认苹果正在丧失它们天才的创造力，但平心而论，在今天来说，iPhone 11系列是苹果能拿出的最好产品吗？
+
+我不信。
+
+但为什么苹果就这么做了？
+
+很大原因来自于它
+
+恐怕是出于战略布局，由于烂泥扶不上墙的老朋友英特尔今年没法提供5G支持，彼时正与高通交恶的苹果，没有办法在这一代提供5G支持，于是iPhone 11系列就承担了过渡5G的的历史使命，很多创新被拿到了明年的iPhone 11s上，如何刺激这代销量？
+
+降价！降价！降价！
+
+潜意识苹果就是想说，我知道11你很委屈，但是为了公司的未来规划，你就牺牲一下自己的利益吧...
+
+即便如此，苹果依然还是那个苹果，在我看来，11终于做到了x系列承诺的那个样子，除了略有倒退的外观。续航不再成为短板、拍照实力再次问鼎（个人看法，A13真的恐怖，pixel为了单摄多张合成，HDR+，特意做了一个独立图像处理芯片，和骁龙845一般大，A13一个芯片同时处理3摄HDR+多张合成，处理能力简直恐怖，更可怕的是功耗还降低了，苹果在手机芯片上的实力领先安卓近2年不是吹的）、更加坚固的机身，变好的信号（据传闻）、更快的更多角度的Face ID，这一切的一切都还昭示着“朕还没死，给你的你拿着，不给你的你别抢”。在5G好方兴未艾的当下，iPhone 11系列依然是现阶段我心目中最优秀的智能手机。
+
+
+再探创新乏力之谜
+
+
+把控手机创新节奏还有一个很重要的理由（纯个人猜测），那就是手机硬件市场已经进入存量市场，挖掘存量客户价值才是苹果接下来的业务重点，比如软件生态，苹果的Apple TV+，Apple Arcade就是基于此，有数据表明，苹果现在对于存量客户的价值挖掘是存在问题的，Apple Store的人均交易额较低，挖掘这部分客户的价值，如果硬件营收还一直是苹果的主营收来源，那么诺基亚的前车之鉴尤未远，这也是苹果想要极力摆脱的，这可能会有些扯，但我觉得，因为硬件创新速度大于软件创新速度，会导致这一收支天平进一步向一边倾斜，苹果的软件中兴计划久遥遥无期。
+
+
+详见：iPhone在拖苹果后腿吗？
+
+
+我们可以对明年的新iPhone有什么期待呢？
+
+我的想法是降低期待，手机创新已经到了一个瓶颈，5G时代明年也不太能到来，那么就算创新也大概率手机痒点创新，与其期待iPhone，不如期待苹果的最新硬件设备，比如Apple Glass？
+
+不酷的苹果还能酷起来吗？
+
+让子弹再飞一会儿～
+
